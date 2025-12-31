@@ -11,4 +11,7 @@ This project implements the **Markowitz Efficient Frontier** using historical da
 ## Asset Selection
 **15 high-weightage stocks from the Nifty 50 index** were chosed to represent a diversified cross-section of the Indian economy. The selection includes leaders in Banking (ICICI, HDFC, SBI), IT (TCS, Infosys), Industrials (L&T), and FMCG (ITC, HUL) to ensure a robust covariance matrix for the optimization model.
 
+## Frontier Plot
+![Markowitz Efficient Frontier](images/frontier_plot.png)
+
 *Disclaimer: This project and related analysis are purely for educational purposes*
