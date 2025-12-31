@@ -14,4 +14,11 @@ This project implements the **Markowitz Efficient Frontier** using historical da
 ## Frontier Plot
 ![Markowitz Efficient Frontier](images/frontier_plot.png)
 
+## Maximum Sharpe Portfolio
+* **Sharpe Ratio:** 0.96
+* **Expected Annual Return:** 24.99%
+* **Expected Volatility:** 18.73%
+* **Final Value:** Rs.3062919.12
+* **ROI:** 206.29%
+
 *Disclaimer: This project and related analysis are purely for educational purposes*
